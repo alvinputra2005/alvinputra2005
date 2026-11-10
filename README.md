@@ -10,7 +10,7 @@ Statistik, bahasa, stars, followers, dan kontributor memakai gambar dinamis.
 Tidak perlu token, script lokal, atau GitHub Actions untuk menampilkannya.
 Pembaruan mengikuti cache dan ketersediaan layanan pihak ketiga.
 Framework, deskripsi diri, dan pilihan proyek dikurasi manual.
-Kontributor dihitung per repositori, bukan orang unik lintas proyek.
+Kontributor dihitung per repositori, bukan orang unik lintas proyek. kiku
 -->
 
 <div align="center">
